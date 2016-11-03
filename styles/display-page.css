@@ -1,5 +1,5 @@
 main {
-	
+	margin-top: 100px;
 	max-width: 800px;
 
 	margin-left: auto;
@@ -9,7 +9,7 @@ main {
 	font-size: 0;
 }
 
-.top-container{
+.container-1{
 	width: 800px;
 	height: 200px;
 	display: inline-block;
@@ -30,7 +30,7 @@ main {
 	
 	}
 
-.b-container{
+.container-2{
 width: 800px;
 height:300px;
 display: inline-block;
